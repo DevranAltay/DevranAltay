@@ -36,12 +36,6 @@ I enjoy building apps with a clean look and a smooth user experience.
 
 ---
 
-## 📊 GitHub Stats
-![Devran's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevranAltay&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevranAltay&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect
 - 📧 devran.altay@yahoo.de
 - 💼 [LinkedIn](https://www.linkedin.com/in/devran-altay-380514379/)
