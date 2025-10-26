@@ -21,7 +21,7 @@ I enjoy building apps with a clean look and a smooth user experience.
 
 ## ⚡ Currently
 - 📍 Based in Germany 🇩🇪  
-- 🧭 Building real projects like **TravelBucketList** & **AstroView**  
+- 🧭 Building real projects like **TravelDiary** & **AstroView**  
 - 🌿 Leveling up in Firebase, REST APIs & MVVM
 
 ---
